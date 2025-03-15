@@ -33,8 +33,8 @@ const Skills = () => {
           <h2 className="text-3xl md:text-4xl font-bold mb-4">My Skills</h2>
           <div className="w-20 h-1 bg-blue-600 mx-auto mb-8"></div>
           <p className="text-lg text-gray-600 dark:text-gray-300">
-            Here are the technologies and skills I've acquired throughout my web
-            development journey.
+            Here are the technologies and skills I&apos;ve acquired throughout
+            my web development journey.
           </p>
         </div>
 

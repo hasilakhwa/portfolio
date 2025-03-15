@@ -1,5 +1,3 @@
-import Image from "next/image";
-
 const Projects = () => {
   const projects = [
     {
@@ -51,7 +49,7 @@ const Projects = () => {
           <h2 className="text-3xl md:text-4xl font-bold mb-4">My Projects</h2>
           <div className="w-20 h-1 bg-blue-600 mx-auto mb-8"></div>
           <p className="text-lg text-gray-600 dark:text-gray-300">
-            Here are some of the projects I've worked on. Each project
+            Here are some of the projects I&apos;ve worked on. Each project
             demonstrates different skills and technologies.
           </p>
         </div>
