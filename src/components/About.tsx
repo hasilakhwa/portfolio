@@ -21,8 +21,8 @@ const About = () => {
               pleasing.
             </p>
             <p className="text-gray-600 dark:text-gray-300 mb-4">
-              I've dedicated myself to mastering modern web technologies and
-              best practices, constantly learning and adapting to the
+              I&apos;ve dedicated myself to mastering modern web technologies
+              and best practices, constantly learning and adapting to the
               ever-changing landscape of web development.
             </p>
             <p className="text-gray-600 dark:text-gray-300">
