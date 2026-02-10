@@ -37,8 +37,8 @@ const Projects = () => {
         "A professional portfolio website to showcase skills, projects, and contact information.",
       image: "/project4.jpg",
       technologies: ["Next.js", "Tailwind CSS", "TypeScript"],
-      liveLink: "#",
-      codeLink: "#",
+      liveLink: "https://haisyportfolio.vercel.app/",
+      codeLink: "https://github.com/hasilakhwa/portfolio",
     },
   ];
 
