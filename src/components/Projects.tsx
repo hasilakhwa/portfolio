@@ -2,34 +2,34 @@ const Projects = () => {
   const projects = [
     {
       id: 1,
-      title: "E-Commerce Website",
+      title: "Book for future robotics",
       description:
-        "A fully responsive e-commerce platform with product listings, shopping cart, and checkout functionality.",
+        "This book is a comprehensive guide to the future of robotics, covering the latest advancements, trends, and applications in the field. It explores the potential impact of robotics on various industries and society as a whole.",
       image: "/project1.jpg",
-      technologies: ["React", "Next.js", "Tailwind CSS", "Stripe"],
-      liveLink: "#",
-      codeLink: "#",
+      technologies: ["React", "docusaurus", "Tailwind CSS", "Stripe"],
+      liveLink: "https://book-lime-xi.vercel.app/",
+      codeLink: "https://github.com/hasilakhwa/book",
     },
-    {
-      id: 2,
-      title: "Restaurant Website",
-      description:
-        "A modern website for a restaurant featuring menu display, reservation system, and contact information.",
-      image: "/project2.jpg",
-      technologies: ["HTML", "CSS", "JavaScript", "Firebase"],
-      liveLink: "#",
-      codeLink: "#",
-    },
-    {
-      id: 3,
-      title: "Task Management App",
-      description:
-        "A productivity application that helps users organize tasks, set priorities, and track progress.",
-      image: "/project3.jpg",
-      technologies: ["React", "Node.js", "MongoDB", "Express"],
-      liveLink: "#",
-      codeLink: "#",
-    },
+    // {
+    //   id: 2,
+    //   title: "Restaurant Website",
+    //   description:
+    //     "A modern website for a restaurant featuring menu display, reservation system, and contact information.",
+    //   image: "/project2.jpg",
+    //   technologies: ["HTML", "CSS", "JavaScript", "Firebase"],
+    //   liveLink: "#",
+    //   codeLink: "#",
+    // },
+    // {
+    //   id: 3,
+    //   title: "Task Management App",
+    //   description:
+    //     "A productivity application that helps users organize tasks, set priorities, and track progress.",
+    //   image: "/project3.jpg",
+    //   technologies: ["React", "Node.js", "MongoDB", "Express"],
+    //   liveLink: "#",
+    //   codeLink: "#",
+    // },
     {
       id: 4,
       title: "Portfolio Website",
